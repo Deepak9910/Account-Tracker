@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Account-Tracker/static/css/main.09f92eff.css",
+    "main.js": "/Account-Tracker/static/js/main.cc6fa4c4.js",
+    "index.html": "/Account-Tracker/index.html",
+    "main.09f92eff.css.map": "/Account-Tracker/static/css/main.09f92eff.css.map",
+    "main.cc6fa4c4.js.map": "/Account-Tracker/static/js/main.cc6fa4c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09f92eff.css",
+    "static/js/main.cc6fa4c4.js"
+  ]
+}
